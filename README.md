@@ -1,0 +1,2 @@
+# skill-nostr
+skill nostr
