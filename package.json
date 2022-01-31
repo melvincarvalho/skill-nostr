@@ -1,0 +1,29 @@
+{
+  "name": "skill-nostr",
+  "version": "0.0.1",
+  "description": "skill nostr",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "skill-nostr": "getevents.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melvincarvalho/skill-nostr.git"
+  },
+  "keywords": [
+    "nostr",
+    "skill",
+    "aam",
+    "aam-skill"
+  ],
+  "author": "Melvin Carvalho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/melvincarvalho/skill-nostr/issues"
+  },
+  "homepage": "https://github.com/melvincarvalho/skill-nostr#readme"
+}
