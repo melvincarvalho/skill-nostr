@@ -1,6 +1,6 @@
 {
   "name": "skill-nostr",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "skill nostr",
   "main": "index.js",
   "type": "module",
@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/melvincarvalho/skill-nostr/issues"
   },
-  "homepage": "https://github.com/melvincarvalho/skill-nostr#readme"
+  "homepage": "https://github.com/melvincarvalho/skill-nostr#readme",
+  "dependencies": {
+    "websocket-polyfill": "^0.0.3"
+  }
 }
