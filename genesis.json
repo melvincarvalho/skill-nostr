@@ -1,0 +1,8 @@
+{
+  "@id": "gitmark:42a71e18ca461d692d61a69e09c4592ed317b0739d9ddda3f5422016c92a8e74:0",
+  "genesis": "gitmark:42a71e18ca461d692d61a69e09c4592ed317b0739d9ddda3f5422016c92a8e74:0",
+  "nick": "nostr-rocks",
+  "package": "./package.json",
+  "repository": "./"
+}
+
